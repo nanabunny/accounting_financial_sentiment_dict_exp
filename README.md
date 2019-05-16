@@ -1,0 +1,2 @@
+# accounting_financial_sentiment_dict_exp
+简体中文会计和金融情感词典扩充
